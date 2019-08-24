@@ -8,7 +8,7 @@ spring:
 eureka:
     client:
       serviceUrl:
-        defaultZone: https://sandeepeurekaserver.herokuapp.com/
+        defaultZone: https://sandeepeurekaserver.herokuapp.com/eureka
 
 # HTTP Server (Tomcat) Port
 server: 
